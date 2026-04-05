@@ -1,3 +1,5 @@
+Qn.Build a circuit with 3 LEDs, where the LEDs blink at time intervals of
+500ms,1000ms,1500ms.
 Blinking LEDs with Different Time Intervals
 Initially, I had very little idea about how to approach this task,
 so I referred to YouTube videos and AI platforms to understand the basics.
