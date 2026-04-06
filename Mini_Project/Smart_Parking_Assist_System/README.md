@@ -33,4 +33,4 @@ I resolved this by properly timing the trigger pulse and ensuring correct calcul
 
 Simulation Link:
 
-https://www.tinkercad.com/things/2TIw0NVwE8q/editel?returnTo=%2Fdashboard&sharecode=4U0gT-lZZqBP1FrCvWs97YIkaBUl3WkDPp86zOJ4SR8
+https://www.tinkercad.com/things/2TIw0NVwE8q-smartparking-ec25i2009?sharecode=szgJ3lHvFJpDyCx-vzziXAbV3KDlV01PUG9k2fuo1Ig
