@@ -3,14 +3,14 @@ Qn.Build a circuit with 3 LEDs, where the LEDs blink at time intervals of
 
 Blinking LEDs with Different Time Intervals
 
-Initially, I had very little idea about how to approach this task,
-so I referred to YouTube videos and AI platforms to understand the basics.
-I first implemented the solution using `delay()`, but realized that the LEDs
-were not blinking simultaneously. I then explored `millis()` and non-blocking
-execution, which allowed me to achieve the desired output. Through this process,
-I gained a clear understanding of how timing and control work in Arduino and moved
-from simply following steps to confidently applying the underlying concepts.
+I started with limited prior knowledge, so I explored basic Arduino concepts 
+through YouTube and AI tools. Initially, I used delay() to control blinking, but noticed
+that the LEDs were not blinking independently, since delay() blocks the execution of the program.
+To solve this, I used millis() to implement non-blocking timing. I stored separate previous time 
+values for each LED and compared them with the current time using millis(). Whenever the time 
+difference exceeded the required interval (500ms, 1000ms, 1500ms), I toggled the respective LED state.
+This approach allowed all LEDs to blink simultaneously at different rates, and helped me understand how 
+non-blocking code works in real-time systems.
 
 Simulation Link:
-
 https://www.tinkercad.com/things/cLuRIgmTKX2-blinkingled-ec25i2009?sharecode=ajaEvXy9IQtkQRBlCJ-mspRkXBUFaN5AESFOO7p7aGg
