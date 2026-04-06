@@ -11,5 +11,6 @@ It took some trial and error to balance both controls properly,
 but I understood how analogRead and analogWrite work together through this task.
 
 
-Tinkercad_link:
+Simulation Link:
+
 https://www.tinkercad.com/things/bQDFHniuLvF/editel?returnTo=%2Fdashboard&sharecode=0g-JQl1Cg3jMgPqA_fnuPPrngkP_cZzviIQCvh7MDew
