@@ -1,4 +1,6 @@
 Automatic Night Lamp (LDR):
+
+
 1.What the project does and why I chose it?
 This project automatically turns an LED ON in darkness 
 and OFF in bright light using a photoresistor (LDR). 
