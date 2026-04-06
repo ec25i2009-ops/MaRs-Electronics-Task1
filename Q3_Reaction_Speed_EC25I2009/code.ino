@@ -7,6 +7,8 @@ void setup() {
   pinMode(buttonPin, INPUT_PULLUP);
   Serial.begin(9600);
   randomSeed(analogRead(0));
+}
+void loop() {
   delay(random(2000, 5000));
   digitalWrite(ledPin, HIGH);
   startTime = millis();
@@ -17,6 +19,5 @@ void setup() {
   Serial.print(reactionTime);
   Serial.println(" ms");
   digitalWrite(ledPin, LOW);
-}
-void loop() {
+  delay(2000);
 }
