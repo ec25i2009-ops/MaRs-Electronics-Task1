@@ -31,4 +31,5 @@ Since the values ranged approximately between lower values in light and
 higher values in darkness, I selected a midpoint(approximately 500) to reliably distinguish between the two.
 
 Simulation Link:
+
 https://www.tinkercad.com/things/jqQvhSvTBy9/editel?returnTo=%2Fdashboard&sharecode=e63CP26UnCzPDDRtyPdJn2EQCnBfmd8HxZwxn05HT38
