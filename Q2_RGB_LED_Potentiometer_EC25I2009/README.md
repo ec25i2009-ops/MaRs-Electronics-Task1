@@ -15,4 +15,4 @@ but I understood how analogRead and analogWrite work together through this task.
 
 Simulation Link:
 
-https://www.tinkercad.com/things/bQDFHniuLvF-potentiometerec25i2009
+https://www.tinkercad.com/things/bQDFHniuLvF-potentiometerec25i2009?sharecode=1nL3dNA2faWj-hi2SnuZHgvNN49LneQjUsvAir_tK9M
