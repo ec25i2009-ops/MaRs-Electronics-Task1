@@ -1,5 +1,7 @@
-Qn2.RGB LED Control using Potentiometer:
+Qn2. Controlling colour of RGB LED and blinking speed of an
+other LED with potentiometer
 
+RGB LED Control using Potentiometer:
 
 I built this circuit using a potentiometer to control
 both an RGB LED and a normal LED. Initially, I explored 
