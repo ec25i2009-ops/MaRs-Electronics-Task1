@@ -1,4 +1,4 @@
-MaRS Electronics Task 1
+MaRS Electronics Task 1:
 
 This repository contains my work for the MaRS Electronics Task 1 
 using Arduino and Tinkercad. I started with very little prior knowledge
