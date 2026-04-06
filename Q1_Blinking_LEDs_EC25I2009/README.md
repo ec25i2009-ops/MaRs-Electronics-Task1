@@ -11,5 +11,6 @@ execution, which allowed me to achieve the desired output. Through this process,
 I gained a clear understanding of how timing and control work in Arduino and moved
 from simply following steps to confidently applying the underlying concepts.
 
-### 🔗 Simulation Link
-[View Simulation](https://www.tinkercad.com/things/cLuRIgmTKX2/editel?returnTo=%2Fdashboard&sharecode=O7jyXOjl8WxpsYbG7TES7r0BtLBm1Jdl-NXhV0BUxn8)
+Simulation Link:
+
+https://www.tinkercad.com/things/cLuRIgmTKX2/editel?returnTo=%2Fdashboard&sharecode=O7jyXOjl8WxpsYbG7TES7r0BtLBm1Jdl-NXhV0BUxn8
