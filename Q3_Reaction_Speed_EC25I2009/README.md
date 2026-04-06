@@ -1,14 +1,14 @@
 Qn.Build a circuit with LED and pushbutton that tests your reaction speed.
 
-Reaction Speed using Pushbuttons
+Reaction Time Tester
 
-Initially, I set up the LED as an output and the pushbutton as an
-input using pinMode(), enabling the internal pull-up resistor. Then, 
-I used random() to introduce a delay before the LED turns on using 
-digitalWrite(). Once the LED glows, I recorded the starting time using
-millis(). I continuously checked the button state using digitalRead(),
-and when the button was pressed, I calculated the reaction time. Finally,
-I displayed the result in the Serial Monitor using Serial.print().
+In this task, I built a system to measure reaction time using an LED and a pushbutton.
+The LED turns ON after a random delay using the random() function, ensuring that the user
+cannot predict when it will light up. Once the LED turns ON, I record the start time using
+millis(). When the pushbutton is pressed, I capture the current time and calculate the reaction
+time as the difference between the two values.I used INPUT_PULLUP mode for the button to ensure 
+stable input readings and avoid floating values. The calculated reaction time is then displayed on the Serial Monitor.
+This task helped me understand event-based timing, user interaction, and practical use of millis() in real-time measurement.
 
 Simulation Link:
 
