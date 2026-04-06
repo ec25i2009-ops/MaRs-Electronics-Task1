@@ -1,4 +1,4 @@
-Question 3
+MINI PROJECTS:
 
 This folder contains the implementation of two Arduino-based mini projects developed using Tinkercad:
 1. Automatic Night Lamp (LDR):
